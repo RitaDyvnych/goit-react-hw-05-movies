@@ -10,18 +10,19 @@
 .mainImg {
   display: block;
   margin-top: 10px;
-  width: 200px;
-  height: 350px;
+  width: 250px;
+  /* height: 350px; */
   object-fit: cover;
 }
 .button {
   display: block;
-  width: 100px;
-  height: 35px;
+  width: 80px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   background-color: #81c05a;
   color: white;
 
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 700;
   border-radius: 10px;
   border: 1px solid #81c05a;
@@ -32,7 +33,7 @@
   background-color: #43990e;
 }
 .textCont {
-  padding-top: 64px;
+  padding-top: 80px;
   padding-left: 20px;
   display: flex;
   flex-direction: column;
